@@ -1,7 +1,7 @@
 
 # Projeto Final - E209 - Sistema Irrigação
 
-Projeto desenvolvido para plataforma ATmega328p como forma de avaliação dos conteudos desenvolvidos no laboratório.
+Projeto desenvolvido para plataforma ATmega328p como forma de avaliação dos conteúdos desenvolvidos no laboratório.
 
 
 ## Autores
